@@ -57,7 +57,7 @@ Instead, the empty value is marshaled to `JSON` as a `null` value.
 
 This project includes a `docker` image that can be used for testing. After starting up docker, browse to:
 
-http://localhost:8080/jersey-null-value/rest/hello/jsonjaxb
+http://localhost:8080/jerseynullvalue-0.0.1/rest/hello/jsonjaxb
 
 The structure of the docker image is as follows.
 
